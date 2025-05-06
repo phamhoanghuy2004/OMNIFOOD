@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54103851081",
+    "project_id": "shortvideo-57bbc",
+    "storage_bucket": "shortvideo-57bbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54103851081:android:f3d56de7a220f30b02bf98",
+        "android_client_info": {
+          "package_name": "com.example.shortvideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmkhq9sVC4qTLn-eTv_aNMRfYctHwRNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
