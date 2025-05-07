@@ -88,6 +88,7 @@ public class LoginActicity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent();
+                // ket thuc cong viec
                 i.setClass(LoginActicity.this,SignUpActivity.class);
                 startActivity(i);
             }
