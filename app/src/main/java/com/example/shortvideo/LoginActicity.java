@@ -91,7 +91,10 @@ public class LoginActicity extends AppCompatActivity {
                 // ket thuc cong viec
                 i.setClass(LoginActicity.this,SignUpActivity.class);
                 startActivity(i);
+                // thuc hien code trong nay
             }
         });
+
+
     }
 }
