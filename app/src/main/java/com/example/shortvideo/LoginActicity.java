@@ -23,7 +23,7 @@ import com.google.firebase.database.ValueEventListener;
 
 public class LoginActicity extends AppCompatActivity {
     private EditText etEmail, etPassword;
-    private Button btnLogin,btnSignUp2;
+    private Button btnLogin,btnSignUp3;
 
 
     @Override
